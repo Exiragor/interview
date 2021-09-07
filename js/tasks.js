@@ -28,8 +28,13 @@ var p = new Promise(function(resolve, reject) {
 });
 
 p.then(function(){
-    // some code
+    console.log('3', a);
 });
 
-console.log('3', a);
+console.log('4', a);
+
+// 2 5
+// 4 25
+// 3 25
+// 1 25
 
