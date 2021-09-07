@@ -1,0 +1,4 @@
+Сверстать кастомный чекбокс.
+'✓' - использовать данную иконку.
+
+https://codesandbox.io/s/quizzical-boyd-w0ds3?file=/readme.md
