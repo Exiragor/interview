@@ -19,3 +19,6 @@
 // написать функцию debounce. На вход функция и время. На выходе функция, которую требуется вызывать.
 // https://codesandbox.io/s/charming-curran-ih2us?file=/src/index.js
 
+// Получить значение объекта по path.
+// https://codesandbox.io/s/dark-browser-w3pkm?file=/src/index.js
+
