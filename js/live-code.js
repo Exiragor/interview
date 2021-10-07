@@ -22,3 +22,5 @@
 // Получить значение объекта по path.
 // https://codesandbox.io/s/dark-browser-w3pkm?file=/src/index.js
 
+// Дан список целых, уникальных чисел. Нужно преобразовать это множество в строку, группируя соседние по числовому ряду числа в диапазоны.
+//https://codesandbox.io/s/upbeat-chaum-ji0go?file=/src/index.js
